@@ -1,4 +1,4 @@
-token=NTk4OTA5MjMyOTYzNjQ5NTU2.XSdgBg.tfprDpDcqUsgh7HSaHK4-TcD1bI
+token=process.env.BOT_TOKEN
 owner=446694720144539658
 prefix=3
 game=type 3help
